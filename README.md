@@ -78,31 +78,40 @@
   <details><summary>Работы по SQL</summary>
 
      
-  [Создание и заполнение](https://github.com/Vlad-Perceval/creation-and-filling)
+  [Создание и заполнение](https://github.com/vlad13667/creation-and-filling)
   
-  [Обьединение таблиц](https://github.com/Vlad-Perceval/connection-operations)
+  [Запросы](https://github.com/vlad13667/requests-sql)
   
-  [Запросы](https://github.com/Vlad-Perceval/requests-sql)
+  [Функции и триггеры](https://github.com/vlad13667/functions-and-triggers)
   
-  [Функции и триггеры](https://github.com/Vlad-Perceval/functions-and-triggers)
+  [подключение-операции 2](https://github.com/vlad13667/connection-operations-2)
+
+  [подключение-операции](https://github.com/vlad13667/connection-operations)
   
-  [Функции и триггеры2](https://github.com/Vlad-Perceval/connection-operations-2)
+  [Пользователи и роли](https://github.com/vlad13667/users-and-roles)
   
-  [Пользователи и роли](https://github.com/Vlad-Perceval/users-and-roles)
-  
-  [Транзакции](https://github.com/Vlad-Perceval/transactions)
+  [Транзакции](https://github.com/vlad13667/transactions)
   
   </details>
 
 
   <details><summary>Работы по Python</summary>
     
-  [Метод Гаусса](https://github.com/Vlad-Perceval/Gaus-method-python)
+  [Метод Гаусса](https://github.com/vlad13667/gauss-with-a-choice-of-main-elements)
   
-  [Метод Зейдаля](https://github.com/Vlad-Perceval/Zeidal-method-python)
+  [Уравнение Вольтерры второго рода](https://github.com/vlad13667/The-Volterra-equation-of-the-second-kind)
   
-  [уточнение значений корня](https://github.com/Vlad-Perceval/Clarify--values--roots)
-  
+  [Уравнение Фредгольма второго рода](https://github.com/vlad13667/Fredholm-equation-of-the-second-kind)
+
+  [Методы решения нелинейных уравнений](https://github.com/vlad13667/Methods-for-solving-nonlinear-equations)
+
+  [Приближенное решение задачи Дирихле для уравнения Лапласа](https://github.com/vlad13667/Approximate-solution-of-the-Dirichlet-problem-for-the-Laplace-equation)
+
+  [Коши для обыкновенного дифференциального уравнения первого порядка](https://github.com/vlad13667/Cauchy-for-an-ordinary-differential-equation-of-the-first-order)
+
+  [краевая задача для обыкновенного дифференциального уравнения второго порядка](https://github.com/vlad13667/boundary-value-problems-for-an-ordinary-differential-equation-of-the-second-order)
+
+ [численное интегрирование](https://github.com/vlad13667/improved-integration)
   
   
 
