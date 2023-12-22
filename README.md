@@ -30,8 +30,7 @@
 - [Книги](#book)  
 - [Проекты](#project)
 - [Студенческие работы](#studproject)  
-- [Статистика](#stat)  
-- [Связь со мной](#emphasis) 
+
 
 ---
 <a name="me"/>
@@ -68,9 +67,38 @@
 ---
 <a name="project"/>
  :biohazard: Проекты:
-</a>
+ 
+  <details><summary>Проекты Java</summary>
+    
+  [file-meneger](https://github.com/vlad13667/file-manager)
+    
+  </details>
+       
+  </a>
 
 ---
+
+<a name="kurs"/>
+ 👨‍🎓: Курсы:
+ 
+ <details><summary>Работы по курсу Java</summary>
+  
+  [ДЗ](https://github.com/vlad13667/Dz_Java)
+
+  [Дз матрицы](https://github.com/vlad13667/Dz_Matrix_Java)
+
+  [Дз строки](https://github.com/vlad13667/Dz_String_Java)
+
+  [Дз цикл](https://github.com/vlad13667/Dz_While_Java)
+
+  [Дз методы](https://github.com/vlad13667/Dz_Methods_Java)
+  
+  </details>
+   
+</a>
+
+  ---
+  
 <a name="studproject"/>
  👨‍🎓: Студенческие работы:
  
@@ -116,8 +144,19 @@
   
 
   </details>
+
+<details><summary>Работы по Haskel</summary>
   
+  [Haskel](https://github.com/vlad13667/Haskell)
+    
+  </details>
+
+<details><summary>Работы по C#</summary>
   
+  [SET](https://github.com/vlad13667/SET)
+    
+</details>
+
 </a>
 
 ---
